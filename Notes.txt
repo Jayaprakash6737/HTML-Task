@@ -1,0 +1,183 @@
+Task 1
+
+<html lang="en">
+    <head>
+        <body>
+        <title>Document guvi
+        </title>
+    </head>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    </div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+
+    Task 2
+    
+
+    <html lang="en">
+    <head>
+        <body></body>
+        <title>Documentguvi
+        </title>
+    </head>
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+    </div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+
+    Task 3
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li>Programming Language</li>
+    <ul>
+        <li>Java Script</li>
+    </ul>
+    <ul>
+        <ol>
+            <li>Angular</li>
+            <li>React</li>
+            <li>vue</li>
+        </ol>
+        </ul>
+   
+        <ul>
+            <li>Phyton</li>
+        </ul>
+        <ul>
+            <ol>
+                <li>Django Framework</li>
+                <li>Flask Framework</li>
+                
+            </ol>
+            </ul>
+       
+            <ul>
+                <li>Java</li>
+            </ul>
+            <ul>
+                <ol>
+                    <li>maven</li>
+                    <li>Spring</li>
+                    <li>hypernet</li>
+                    
+                </ol>
+                </ul>
+   
+                <ul>
+                    <li>Database</li>
+                </ul>
+                <ul>
+                    <ol>
+                        <li>MangoDb</li>
+                        <li>SQL</li>
+                        <li>Casendera</li>
+                        
+                    </ol>
+                    </ul>
+   
+   
+   
+    </ul>
+
+    
+</body>
+
+
+
+
+
+
+
+
+
+
+<html>
+    <head>
+        <title>Demo</title>
+        
+    </head>
+    <body style="background-color: blue;">
+        <center>
+            <h1>Hi how are You </h1>
+            <p><strong>jayaprkash </strong>is strongest  a man .
+            <br />
+            minus, dolors ins the maon ,
+            <br />
+            iam a doctor
+            </p>
+            <a href="https://google.co.in">click here to learn more </a>
+        </center>
+    </body>
+</html>
+
+
+
+div, article, Section tags
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="background-color: blue;">
+        <h1>Hi how are You </h1>
+        <p>Iam leo </p>
+
+    </div>
+    <section style="background-color: brown;">
+        <h1>Hi how are You </h1>
+        <p>iam Anotany </p>
+
+
+    </section>
+    <article style="background-color: aquamarine ;">
+        <h1>Hi how are You </h1>
+        <p>Ima Harlod das </p>
+
+
+    </article>
+    
+</body>
+</html>
+
+
+Order list Unorder List 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li>html</li>
+        <li>css</li>
+        <li>java script</li>
+    </ul>
+    <ol>
+        <li>html</li>
+        <li>css</li>
+        <li>java script</li>
+    </ol>
+</body>
+</html>
